@@ -13,5 +13,5 @@ CPU Scheduling criteria를 직접 측정한 결과를 통해 각 알고리즘의
 
 2) 사용 프로그램 및 환경
   
- 1) C 코드 에디터: Visual studio 2017
- 2) 컴파일 환경 : Kali Linux의 Terminal에서 gcc 명령어를 통해 컴파일
+ - C 코드 에디터: Visual studio 2017
+ - 컴파일 환경 : Kali Linux의 Terminal에서 gcc 명령어를 통해 컴파일
